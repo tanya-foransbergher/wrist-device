@@ -7,3 +7,5 @@ across four operating modes. The system is programmed with
 the Arduino IDE for precise motor control, valued for its userfriendly interface and versatility.
 
 ![input](https://github.com/tanya-foransbergher/wrist-device/blob/main/Desen_DIAGRAMA.png)
+
+![input](https://github.com/tanya-foransbergher/wrist-device/blob/main/schema_electrica_ilustrativa.png)
